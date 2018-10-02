@@ -1,0 +1,6 @@
+[submodule "BackOffice"]
+	path = BackOffice
+	url = https://github.com/amanij0904/MimiProject.git
+[submodule "FrontOffice"]
+	path = FrontOffice
+	url = https://github.com/amanij0904/MimiProject.git
